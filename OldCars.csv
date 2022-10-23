@@ -1,0 +1,393 @@
+MPG,Cilindros,Max,Acel,HP,Peso,Ano,Origem,Modelo,Marca
+18.0,8,307.0,12.0,130,3504,70,North America,chevrolet chevelle malibu,chevrolet
+15.0,8,350.0,11.5,165,3693,70,North America,buick skylark 320,buick
+18.0,8,318.0,11.0,150,3436,70,North America,plymouth satellite,plymouth
+16.0,8,304.0,12.0,150,3433,70,North America,amc rebel sst,amc
+17.0,8,302.0,10.5,140,3449,70,North America,ford torino,ford
+15.0,8,429.0,10.0,198,4341,70,North America,ford galaxie 500,ford
+14.0,8,454.0,9.0,220,4354,70,North America,chevrolet impala,chevrolet
+14.0,8,440.0,8.5,215,4312,70,North America,plymouth fury iii,plymouth
+14.0,8,455.0,10.0,225,4425,70,North America,pontiac catalina,pontiac
+15.0,8,390.0,8.5,190,3850,70,North America,amc ambassador dpl,amc
+15.0,8,383.0,10.0,170,3563,70,North America,dodge challenger se,dodge
+14.0,8,340.0,8.0,160,3609,70,North America,plymouth 'cuda 340,plymouth
+15.0,8,400.0,9.5,150,3761,70,North America,chevrolet monte carlo,chevrolet
+14.0,8,455.0,10.0,225,3086,70,North America,buick estate wagon (sw),buick
+24.0,4,113.0,15.0,95,2372,70,Asia,toyota corona mark ii,toyota
+22.0,6,198.0,15.5,95,2833,70,North America,plymouth duster,plymouth
+18.0,6,199.0,15.5,97,2774,70,North America,amc hornet,amc
+21.0,6,200.0,16.0,85,2587,70,North America,ford maverick,ford
+27.0,4,97.0,14.5,88,2130,70,Asia,datsun pl510,datsun
+26.0,4,97.0,20.5,46,1835,70,Europe,volkswagen 1131 deluxe sedan,volkswagen
+25.0,4,110.0,17.5,87,2672,70,Europe,peugeot 504,peugeot
+24.0,4,107.0,14.5,90,2430,70,Europe,audi 100 ls,audi
+25.0,4,104.0,17.5,95,2375,70,Europe,saab 99e,saab
+26.0,4,121.0,12.5,113,2234,70,Europe,bmw 2002,bmw
+21.0,6,199.0,15.0,90,2648,70,North America,amc gremlin,amc
+10.0,8,360.0,14.0,215,4615,70,North America,ford f250,ford
+10.0,8,307.0,15.0,200,4376,70,North America,chevy c20,chevrolet
+11.0,8,318.0,13.5,210,4382,70,North America,dodge d200,dodge
+9.0,8,304.0,18.5,193,4732,70,North America,hi 1200d,hi
+27.0,4,97.0,14.5,88,2130,71,Asia,datsun pl510,datsun
+28.0,4,140.0,15.5,90,2264,71,North America,chevrolet vega 2300,chevrolet
+25.0,4,113.0,14.0,95,2228,71,Asia,toyota corona,toyota
+19.0,6,232.0,13.0,100,2634,71,North America,amc gremlin,amc
+16.0,6,225.0,15.5,105,3439,71,North America,plymouth satellite custom,plymouth
+17.0,6,250.0,15.5,100,3329,71,North America,chevrolet chevelle malibu,chevrolet
+19.0,6,250.0,15.5,88,3302,71,North America,ford torino 500,ford
+18.0,6,232.0,15.5,100,3288,71,North America,amc matador,amc
+14.0,8,350.0,12.0,165,4209,71,North America,chevrolet impala,chevrolet
+14.0,8,400.0,11.5,175,4464,71,North America,pontiac catalina brougham,pontiac
+14.0,8,351.0,13.5,153,4154,71,North America,ford galaxie 500,ford
+14.0,8,318.0,13.0,150,4096,71,North America,plymouth fury iii,plymouth
+12.0,8,383.0,11.5,180,4955,71,North America,dodge monaco (sw),dodge
+13.0,8,400.0,12.0,170,4746,71,North America,ford country squire (sw),ford
+13.0,8,400.0,12.0,175,5140,71,North America,pontiac safari (sw),pontiac
+18.0,6,258.0,13.5,110,2962,71,North America,amc hornet sportabout (sw),amc
+22.0,4,140.0,19.0,72,2408,71,North America,chevrolet vega (sw),chevrolet
+19.0,6,250.0,15.0,100,3282,71,North America,pontiac firebird,pontiac
+18.0,6,250.0,14.5,88,3139,71,North America,ford mustang,ford
+23.0,4,122.0,14.0,86,2220,71,North America,mercury capri 2000,mercury
+28.0,4,116.0,14.0,90,2123,71,Europe,opel 1900,opel
+30.0,4,79.0,19.5,70,2074,71,Europe,peugeot 304,peugeot
+30.0,4,88.0,14.5,76,2065,71,Europe,fiat 124b,fiat
+31.0,4,71.0,19.0,65,1773,71,Asia,toyota corolla 1200,toyota
+35.0,4,72.0,18.0,69,1613,71,Asia,datsun 1200,datsun
+27.0,4,97.0,19.0,60,1834,71,Europe,volkswagen model 111,volkswagen
+26.0,4,91.0,20.5,70,1955,71,North America,plymouth cricket,plymouth
+24.0,4,113.0,15.5,95,2278,72,Asia,toyota corona hardtop,toyota
+25.0,4,97.5,17.0,80,2126,72,North America,dodge colt hardtop,dodge
+23.0,4,97.0,23.5,54,2254,72,Europe,volkswagen type 3,volkswagen
+20.0,4,140.0,19.5,90,2408,72,North America,chevrolet vega,chevrolet
+21.0,4,122.0,16.5,86,2226,72,North America,ford pinto runabout,ford
+13.0,8,350.0,12.0,165,4274,72,North America,chevrolet impala,chevrolet
+14.0,8,400.0,12.0,175,4385,72,North America,pontiac catalina,pontiac
+15.0,8,318.0,13.5,150,4135,72,North America,plymouth fury iii,plymouth
+14.0,8,351.0,13.0,153,4129,72,North America,ford galaxie 500,ford
+17.0,8,304.0,11.5,150,3672,72,North America,amc ambassador sst,amc
+11.0,8,429.0,11.0,208,4633,72,North America,mercury marquis,mercury
+13.0,8,350.0,13.5,155,4502,72,North America,buick lesabre custom,buick
+12.0,8,350.0,13.5,160,4456,72,North America,oldsmobile delta 88 royale,oldsmobile
+13.0,8,400.0,12.5,190,4422,72,North America,chrysler newport royal,chrysler
+19.0,3,70.0,13.5,97,2330,72,Asia,mazda rx2 coupe,mazda
+15.0,8,304.0,12.5,150,3892,72,North America,amc matador (sw),amc
+13.0,8,307.0,14.0,130,4098,72,North America,chevrolet chevelle concours (sw),chevrolet
+13.0,8,302.0,16.0,140,4294,72,North America,ford gran torino (sw),ford
+14.0,8,318.0,14.0,150,4077,72,North America,plymouth satellite custom (sw),plymouth
+18.0,4,121.0,14.5,112,2933,72,Europe,volvo 145e (sw),volvo
+22.0,4,121.0,18.0,76,2511,72,Europe,volkswagen 411 (sw),volkswagen
+21.0,4,120.0,19.5,87,2979,72,Europe,peugeot 504 (sw),peugeot
+26.0,4,96.0,18.0,69,2189,72,Europe,renault 12 (sw),renault
+22.0,4,122.0,16.0,86,2395,72,North America,ford pinto (sw),ford
+28.0,4,97.0,17.0,92,2288,72,Asia,datsun 510 (sw),datsun
+23.0,4,120.0,14.5,97,2506,72,Asia,toyouta corona mark ii (sw),toyota
+28.0,4,98.0,15.0,80,2164,72,North America,dodge colt (sw),dodge
+27.0,4,97.0,16.5,88,2100,72,Asia,toyota corolla 1600 (sw),toyota
+13.0,8,350.0,13.0,175,4100,73,North America,buick century 350,buick
+14.0,8,304.0,11.5,150,3672,73,North America,amc matador,amc
+13.0,8,350.0,13.0,145,3988,73,North America,chevrolet malibu,chevrolet
+14.0,8,302.0,14.5,137,4042,73,North America,ford gran torino,ford
+15.0,8,318.0,12.5,150,3777,73,North America,dodge coronet custom,dodge
+12.0,8,429.0,11.5,198,4952,73,North America,mercury marquis brougham,mercury
+13.0,8,400.0,12.0,150,4464,73,North America,chevrolet caprice classic,chevrolet
+13.0,8,351.0,13.0,158,4363,73,North America,ford ltd,ford
+14.0,8,318.0,14.5,150,4237,73,North America,plymouth fury gran sedan,plymouth
+13.0,8,440.0,11.0,215,4735,73,North America,chrysler new yorker brougham,chrysler
+12.0,8,455.0,11.0,225,4951,73,North America,buick electra 225 custom,buick
+13.0,8,360.0,11.0,175,3821,73,North America,amc ambassador brougham,amc
+18.0,6,225.0,16.5,105,3121,73,North America,plymouth valiant,plymouth
+16.0,6,250.0,18.0,100,3278,73,North America,chevrolet nova custom,chevrolet
+18.0,6,232.0,16.0,100,2945,73,North America,amc hornet,amc
+18.0,6,250.0,16.5,88,3021,73,North America,ford maverick,ford
+23.0,6,198.0,16.0,95,2904,73,North America,plymouth duster,plymouth
+26.0,4,97.0,21.0,46,1950,73,Europe,volkswagen super beetle,volkswagen
+11.0,8,400.0,14.0,150,4997,73,North America,chevrolet impala,chevrolet
+12.0,8,400.0,12.5,167,4906,73,North America,ford country,ford
+13.0,8,360.0,13.0,170,4654,73,North America,plymouth custom suburb,plymouth
+12.0,8,350.0,12.5,180,4499,73,North America,oldsmobile vista cruiser,oldsmobile
+18.0,6,232.0,15.0,100,2789,73,North America,amc gremlin,amc
+20.0,4,97.0,19.0,88,2279,73,Asia,toyota carina,toyota
+21.0,4,140.0,19.5,72,2401,73,North America,chevrolet vega,chevrolet
+22.0,4,108.0,16.5,94,2379,73,Asia,datsun 610,datsun
+18.0,3,70.0,13.5,90,2124,73,Asia,maxda rx3,mazda
+19.0,4,122.0,18.5,85,2310,73,North America,ford pinto,ford
+21.0,6,155.0,14.0,107,2472,73,North America,mercury capri v6,mercury
+26.0,4,98.0,15.5,90,2265,73,Europe,fiat 124 sport coupe,fiat
+15.0,8,350.0,13.0,145,4082,73,North America,chevrolet monte carlo s,chevrolet
+16.0,8,400.0,9.5,230,4278,73,North America,pontiac grand prix,pontiac
+29.0,4,68.0,19.5,49,1867,73,Europe,fiat 128,fiat
+24.0,4,116.0,15.5,75,2158,73,Europe,opel manta,opel
+20.0,4,114.0,14.0,91,2582,73,Europe,audi 100ls,audi
+19.0,4,121.0,15.5,112,2868,73,Europe,volvo 144ea,volvo
+15.0,8,318.0,11.0,150,3399,73,North America,dodge dart custom,dodge
+24.0,4,121.0,14.0,110,2660,73,Europe,saab 99le,saab
+20.0,6,156.0,13.5,122,2807,73,Asia,toyota mark ii,toyota
+11.0,8,350.0,11.0,180,3664,73,North America,oldsmobile omega,oldsmobile
+20.0,6,198.0,16.5,95,3102,74,North America,plymouth duster,plymouth
+19.0,6,232.0,16.0,100,2901,74,North America,amc hornet,amc
+15.0,6,250.0,17.0,100,3336,74,North America,chevrolet nova,chevrolet
+31.0,4,79.0,19.0,67,1950,74,Asia,datsun b210,datsun
+26.0,4,122.0,16.5,80,2451,74,North America,ford pinto,ford
+32.0,4,71.0,21.0,65,1836,74,Asia,toyota corolla 1200,toyota
+25.0,4,140.0,17.0,75,2542,74,North America,chevrolet vega,chevrolet
+16.0,6,250.0,17.0,100,3781,74,North America,chevrolet chevelle malibu classic,chevrolet
+16.0,6,258.0,18.0,110,3632,74,North America,amc matador,amc
+18.0,6,225.0,16.5,105,3613,74,North America,plymouth satellite sebring,plymouth
+16.0,8,302.0,14.0,140,4141,74,North America,ford gran torino,ford
+13.0,8,350.0,14.5,150,4699,74,North America,buick century luxus (sw),buick
+14.0,8,318.0,13.5,150,4457,74,North America,dodge coronet custom (sw),dodge
+14.0,8,302.0,16.0,140,4638,74,North America,ford gran torino (sw),ford
+14.0,8,304.0,15.5,150,4257,74,North America,amc matador (sw),amc
+29.0,4,98.0,16.5,83,2219,74,Europe,audi fox,audi
+26.0,4,79.0,15.5,67,1963,74,Europe,volkswagen dasher,volkswagen
+26.0,4,97.0,14.5,78,2300,74,Europe,opel manta,opel
+31.0,4,76.0,16.5,52,1649,74,Asia,toyota corona,toyota
+32.0,4,83.0,19.0,61,2003,74,Asia,datsun 710,datsun
+28.0,4,90.0,14.5,75,2125,74,North America,dodge colt,dodge
+24.0,4,90.0,15.5,75,2108,74,Europe,fiat 128,fiat
+26.0,4,116.0,14.0,75,2246,74,Europe,fiat 124 tc,fiat
+24.0,4,120.0,15.0,97,2489,74,Asia,honda civic,honda
+26.0,4,108.0,15.5,93,2391,74,Asia,subaru,subaru
+31.0,4,79.0,16.0,67,2000,74,Europe,fiat x1.9,fiat
+19.0,6,225.0,16.0,95,3264,75,North America,plymouth valiant custom,plymouth
+18.0,6,250.0,16.0,105,3459,75,North America,chevrolet nova,chevrolet
+15.0,6,250.0,21.0,72,3432,75,North America,mercury monarch,mercury
+15.0,6,250.0,19.5,72,3158,75,North America,ford maverick,ford
+16.0,8,400.0,11.5,170,4668,75,North America,pontiac catalina,pontiac
+15.0,8,350.0,14.0,145,4440,75,North America,chevrolet bel air,chevrolet
+16.0,8,318.0,14.5,150,4498,75,North America,plymouth grand fury,plymouth
+14.0,8,351.0,13.5,148,4657,75,North America,ford ltd,ford
+17.0,6,231.0,21.0,110,3907,75,North America,buick century,buick
+16.0,6,250.0,18.5,105,3897,75,North America,chevroelt chevelle malibu,chevrolet
+15.0,6,258.0,19.0,110,3730,75,North America,amc matador,amc
+18.0,6,225.0,19.0,95,3785,75,North America,plymouth fury,plymouth
+21.0,6,231.0,15.0,110,3039,75,North America,buick skyhawk,buick
+20.0,8,262.0,13.5,110,3221,75,North America,chevrolet monza 2+2,chevrolet
+13.0,8,302.0,12.0,129,3169,75,North America,ford mustang ii,ford
+29.0,4,97.0,16.0,75,2171,75,Asia,toyota corolla,toyota
+23.0,4,140.0,17.0,83,2639,75,North America,ford pinto,ford
+20.0,6,232.0,16.0,100,2914,75,North America,amc gremlin,amc
+23.0,4,140.0,18.5,78,2592,75,North America,pontiac astro,pontiac
+24.0,4,134.0,13.5,96,2702,75,Asia,toyota corona,toyota
+25.0,4,90.0,16.5,71,2223,75,Europe,volkswagen dasher,volkswagen
+24.0,4,119.0,17.0,97,2545,75,Asia,datsun 710,datsun
+18.0,6,171.0,14.5,97,2984,75,North America,ford pinto,ford
+29.0,4,90.0,14.0,70,1937,75,Europe,volkswagen rabbit,volkswagen
+19.0,6,232.0,17.0,90,3211,75,North America,amc pacer,amc
+23.0,4,115.0,15.0,95,2694,75,Europe,audi 100ls,audi
+23.0,4,120.0,17.0,88,2957,75,Europe,peugeot 504,peugeot
+22.0,4,121.0,14.5,98,2945,75,Europe,volvo 244dl,volvo
+25.0,4,121.0,13.5,115,2671,75,Europe,saab 99le,saab
+33.0,4,91.0,17.5,53,1795,75,Asia,honda civic cvcc,honda
+28.0,4,107.0,15.5,86,2464,76,Europe,fiat 131,fiat
+25.0,4,116.0,16.9,81,2220,76,Europe,opel 1900,opel
+25.0,4,140.0,14.9,92,2572,76,North America,capri ii,capri
+26.0,4,98.0,17.7,79,2255,76,North America,dodge colt,dodge
+27.0,4,101.0,15.3,83,2202,76,Europe,renault 12tl,renault
+17.5,8,305.0,13.0,140,4215,76,North America,chevrolet chevelle malibu classic,chevrolet
+16.0,8,318.0,13.0,150,4190,76,North America,dodge coronet brougham,dodge
+15.5,8,304.0,13.9,120,3962,76,North America,amc matador,amc
+14.5,8,351.0,12.8,152,4215,76,North America,ford gran torino,ford
+22.0,6,225.0,15.4,100,3233,76,North America,plymouth valiant,plymouth
+22.0,6,250.0,14.5,105,3353,76,North America,chevrolet nova,chevrolet
+24.0,6,200.0,17.6,81,3012,76,North America,ford maverick,ford
+22.5,6,232.0,17.6,90,3085,76,North America,amc hornet,amc
+29.0,4,85.0,22.2,52,2035,76,North America,chevrolet chevette,chevrolet
+24.5,4,98.0,22.1,60,2164,76,North America,chevrolet woody,chevrolet
+29.0,4,90.0,14.2,70,1937,76,Europe,vw rabbit,volkswagen
+33.0,4,91.0,17.4,53,1795,76,Asia,honda civic,honda
+20.0,6,225.0,17.7,100,3651,76,North America,dodge aspen se,dodge
+18.0,6,250.0,21.0,78,3574,76,North America,ford granada ghia,ford
+18.5,6,250.0,16.2,110,3645,76,North America,pontiac ventura sj,pontiac
+17.5,6,258.0,17.8,95,3193,76,North America,amc pacer d/l,amc
+29.5,4,97.0,12.2,71,1825,76,Europe,volkswagen rabbit,volkswagen
+32.0,4,85.0,17.0,70,1990,76,Asia,datsun b-210,datsun
+28.0,4,97.0,16.4,75,2155,76,Asia,toyota corolla,toyota
+26.5,4,140.0,13.6,72,2565,76,North America,ford pinto,ford
+20.0,4,130.0,15.7,102,3150,76,Europe,volvo 245,volvo
+13.0,8,318.0,13.2,150,3940,76,North America,plymouth volare premier v8,plymouth
+19.0,4,120.0,21.9,88,3270,76,Europe,peugeot 504,peugeot
+19.0,6,156.0,15.5,108,2930,76,Asia,toyota mark ii,toyota
+16.5,6,168.0,16.7,120,3820,76,Europe,mercedes-benz 280s,mercedes
+16.5,8,350.0,12.1,180,4380,76,North America,cadillac seville,cadillac
+13.0,8,350.0,12.0,145,4055,76,North America,chevy c10,chevrolet
+13.0,8,302.0,15.0,130,3870,76,North America,ford f108,ford
+13.0,8,318.0,14.0,150,3755,76,North America,dodge d100,dodge
+31.5,4,98.0,18.5,68,2045,77,Asia,honda accord cvcc,honda
+30.0,4,111.0,14.8,80,2155,77,North America,buick opel isuzu deluxe,buick
+36.0,4,79.0,18.6,58,1825,77,Europe,renault 5 gtl,renault
+25.5,4,122.0,15.5,96,2300,77,North America,plymouth arrow gs,plymouth
+33.5,4,85.0,16.8,70,1945,77,Asia,datsun f-10 hatchback,datsun
+17.5,8,305.0,12.5,145,3880,77,North America,chevrolet caprice classic,chevrolet
+17.0,8,260.0,19.0,110,4060,77,North America,oldsmobile cutlass supreme,oldsmobile
+15.5,8,318.0,13.7,145,4140,77,North America,dodge monaco brougham,dodge
+15.0,8,302.0,14.9,130,4295,77,North America,mercury cougar brougham,mercury
+17.5,6,250.0,16.4,110,3520,77,North America,chevrolet concours,chevrolet
+20.5,6,231.0,16.9,105,3425,77,North America,buick skylark,buick
+19.0,6,225.0,17.7,100,3630,77,North America,plymouth volare custom,plymouth
+18.5,6,250.0,19.0,98,3525,77,North America,ford granada,ford
+16.0,8,400.0,11.1,180,4220,77,North America,pontiac grand prix lj,pontiac
+15.5,8,350.0,11.4,170,4165,77,North America,chevrolet monte carlo landau,chevrolet
+15.5,8,400.0,12.2,190,4325,77,North America,chrysler cordoba,chrysler
+16.0,8,351.0,14.5,149,4335,77,North America,ford thunderbird,ford
+29.0,4,97.0,14.5,78,1940,77,Europe,volkswagen rabbit custom,volkswagen
+24.5,4,151.0,16.0,88,2740,77,North America,pontiac sunbird coupe,pontiac
+26.0,4,97.0,18.2,75,2265,77,Asia,toyota corolla liftback,toyota
+25.5,4,140.0,15.8,89,2755,77,North America,ford mustang ii 2+2,ford
+30.5,4,98.0,17.0,63,2051,77,North America,chevrolet chevette,chevrolet
+33.5,4,98.0,15.9,83,2075,77,North America,dodge colt m/m,dodge
+30.0,4,97.0,16.4,67,1985,77,Asia,subaru dl,subaru
+30.5,4,97.0,14.1,78,2190,77,Europe,volkswagen dasher,volkswagen
+22.0,6,146.0,14.5,97,2815,77,Asia,datsun 810,datsun
+21.5,4,121.0,12.8,110,2600,77,Europe,bmw 320i,bmw
+21.5,3,80.0,13.5,110,2720,77,Asia,mazda rx-4,mazda
+43.1,4,90.0,21.5,48,1985,78,Europe,volkswagen rabbit custom diesel,volkswagen
+36.1,4,98.0,14.4,66,1800,78,North America,ford fiesta,ford
+32.8,4,78.0,19.4,52,1985,78,Asia,mazda glc deluxe,mazda
+39.4,4,85.0,18.6,70,2070,78,Asia,datsun b210 gx,datsun
+36.1,4,91.0,16.4,60,1800,78,Asia,honda civic cvcc,honda
+19.9,8,260.0,15.5,110,3365,78,North America,oldsmobile cutlass salon brougham,oldsmobile
+19.4,8,318.0,13.2,140,3735,78,North America,dodge diplomat,dodge
+20.2,8,302.0,12.8,139,3570,78,North America,mercury monarch ghia,mercury
+19.2,6,231.0,19.2,105,3535,78,North America,pontiac phoenix lj,pontiac
+20.5,6,200.0,18.2,95,3155,78,North America,chevrolet malibu,chevrolet
+20.2,6,200.0,15.8,85,2965,78,North America,ford fairmont (auto),ford
+25.1,4,140.0,15.4,88,2720,78,North America,ford fairmont (man),ford
+20.5,6,225.0,17.2,100,3430,78,North America,plymouth volare,plymouth
+19.4,6,232.0,17.2,90,3210,78,North America,amc concord,amc
+20.6,6,231.0,15.8,105,3380,78,North America,buick century special,buick
+20.8,6,200.0,16.7,85,3070,78,North America,mercury zephyr,mercury
+18.6,6,225.0,18.7,110,3620,78,North America,dodge aspen,dodge
+18.1,6,258.0,15.1,120,3410,78,North America,amc concord d/l,amc
+19.2,8,305.0,13.2,145,3425,78,North America,chevrolet monte carlo landau,chevrolet
+17.7,6,231.0,13.4,165,3445,78,North America,buick regal sport coupe (turbo),buick
+18.1,8,302.0,11.2,139,3205,78,North America,ford futura,ford
+17.5,8,318.0,13.7,140,4080,78,North America,dodge magnum xe,dodge
+30.0,4,98.0,16.5,68,2155,78,North America,chevrolet chevette,chevrolet
+27.5,4,134.0,14.2,95,2560,78,Asia,toyota corona,toyota
+27.2,4,119.0,14.7,97,2300,78,Asia,datsun 510,datsun
+30.9,4,105.0,14.5,75,2230,78,North America,dodge omni,dodge
+21.1,4,134.0,14.8,95,2515,78,Asia,toyota celica gt liftback,toyota
+23.2,4,156.0,16.7,105,2745,78,North America,plymouth sapporo,plymouth
+23.8,4,151.0,17.6,85,2855,78,North America,oldsmobile starfire sx,oldsmobile
+23.9,4,119.0,14.9,97,2405,78,Asia,datsun 200-sx,datsun
+20.3,5,131.0,15.9,103,2830,78,Europe,audi 5000,audi
+17.0,6,163.0,13.6,125,3140,78,Europe,volvo 264gl,volvo
+21.6,4,121.0,15.7,115,2795,78,Europe,saab 99gle,saab
+16.2,6,163.0,15.8,133,3410,78,Europe,peugeot 604sl,peugeot
+31.5,4,89.0,14.9,71,1990,78,Europe,volkswagen scirocco,volkswagen
+29.5,4,98.0,16.6,68,2135,78,Asia,honda accord lx,honda
+21.5,6,231.0,15.4,115,3245,79,North America,pontiac lemans v6,pontiac
+19.8,6,200.0,18.2,85,2990,79,North America,mercury zephyr 6,mercury
+22.3,4,140.0,17.3,88,2890,79,North America,ford fairmont 4,ford
+20.2,6,232.0,18.2,90,3265,79,North America,amc concord dl 6,amc
+20.6,6,225.0,16.6,110,3360,79,North America,dodge aspen 6,dodge
+17.0,8,305.0,15.4,130,3840,79,North America,chevrolet caprice classic,chevrolet
+17.6,8,302.0,13.4,129,3725,79,North America,ford ltd landau,ford
+16.5,8,351.0,13.2,138,3955,79,North America,mercury grand marquis,mercury
+18.2,8,318.0,15.2,135,3830,79,North America,dodge st. regis,dodge
+16.9,8,350.0,14.9,155,4360,79,North America,buick estate wagon (sw),buick
+15.5,8,351.0,14.3,142,4054,79,North America,ford country squire (sw),ford
+19.2,8,267.0,15.0,125,3605,79,North America,chevrolet malibu classic (sw),chevrolet
+18.5,8,360.0,13.0,150,3940,79,North America,chrysler lebaron town @ country (sw),chrysler
+31.9,4,89.0,14.0,71,1925,79,Europe,vw rabbit custom,volkswagen
+34.1,4,86.0,15.2,65,1975,79,Asia,maxda glc deluxe,mazda
+35.7,4,98.0,14.4,80,1915,79,North America,dodge colt hatchback custom,dodge
+27.4,4,121.0,15.0,80,2670,79,North America,amc spirit dl,amc
+25.4,5,183.0,20.1,77,3530,79,Europe,mercedes benz 300d,mercedes
+23.0,8,350.0,17.4,125,3900,79,North America,cadillac eldorado,cadillac
+27.2,4,141.0,24.8,71,3190,79,Europe,peugeot 504,peugeot
+23.9,8,260.0,22.2,90,3420,79,North America,oldsmobile cutlass salon brougham,oldsmobile
+34.2,4,105.0,13.2,70,2200,79,North America,plymouth horizon,plymouth
+34.5,4,105.0,14.9,70,2150,79,North America,plymouth horizon tc3,plymouth
+31.8,4,85.0,19.2,65,2020,79,Asia,datsun 210,datsun
+37.3,4,91.0,14.7,69,2130,79,Europe,fiat strada custom,fiat
+28.4,4,151.0,16.0,90,2670,79,North America,buick skylark limited,buick
+28.8,6,173.0,11.3,115,2595,79,North America,chevrolet citation,chevrolet
+26.8,6,173.0,12.9,115,2700,79,North America,oldsmobile omega brougham,oldsmobile
+33.5,4,151.0,13.2,90,2556,79,North America,pontiac phoenix,pontiac
+41.5,4,98.0,14.7,76,2144,80,Europe,vw rabbit,volkswagen
+38.1,4,89.0,18.8,60,1968,80,Asia,toyota corolla tercel,toyota
+32.1,4,98.0,15.5,70,2120,80,North America,chevrolet chevette,chevrolet
+37.2,4,86.0,16.4,65,2019,80,Asia,datsun 310,datsun
+28.0,4,151.0,16.5,90,2678,80,North America,chevrolet citation,chevrolet
+26.4,4,140.0,18.1,88,2870,80,North America,ford fairmont,ford
+24.3,4,151.0,20.1,90,3003,80,North America,amc concord,amc
+19.1,6,225.0,18.7,90,3381,80,North America,dodge aspen,dodge
+34.3,4,97.0,15.8,78,2188,80,Europe,audi 4000,audi
+29.8,4,134.0,15.5,90,2711,80,Asia,toyota corona liftback,toyota
+31.3,4,120.0,17.5,75,2542,80,Asia,mazda 626,mazda
+37.0,4,119.0,15.0,92,2434,80,Asia,datsun 510 hatchback,datsun
+32.2,4,108.0,15.2,75,2265,80,Asia,toyota corolla,toyota
+46.6,4,86.0,17.9,65,2110,80,Asia,mazda glc,mazda
+27.9,4,156.0,14.4,105,2800,80,North America,dodge colt,dodge
+40.8,4,85.0,19.2,65,2110,80,Asia,datsun 210,datsun
+44.3,4,90.0,21.7,48,2085,80,Europe,vw rabbit c (diesel),volkswagen
+43.4,4,90.0,23.7,48,2335,80,Europe,vw dasher (diesel),volkswagen
+36.4,5,121.0,19.9,67,2950,80,Europe,audi 5000s (diesel),audi
+30.0,4,146.0,21.8,67,3250,80,Europe,mercedes-benz 240d,mercedes
+44.6,4,91.0,13.8,67,1850,80,Asia,honda civic 1500 gl,honda
+33.8,4,97.0,18.0,67,2145,80,Asia,subaru dl,subaru
+29.8,4,89.0,15.3,62,1845,80,Europe,vokswagen rabbit,volkswagen
+32.7,6,168.0,11.4,132,2910,80,Asia,datsun 280-zx,datsun
+23.7,3,70.0,12.5,100,2420,80,Asia,mazda rx-7 gs,mazda
+35.0,4,122.0,15.1,88,2500,80,Europe,triumph tr7 coupe,triumph
+32.4,4,107.0,17.0,72,2290,80,Asia,honda accord,honda
+27.2,4,135.0,15.7,84,2490,81,North America,plymouth reliant,plymouth
+26.6,4,151.0,16.4,84,2635,81,North America,buick skylark,buick
+25.8,4,156.0,14.4,92,2620,81,North America,dodge aries wagon (sw),dodge
+23.5,6,173.0,12.6,110,2725,81,North America,chevrolet citation,chevrolet
+30.0,4,135.0,12.9,84,2385,81,North America,plymouth reliant,plymouth
+39.1,4,79.0,16.9,58,1755,81,Asia,toyota starlet,toyota
+39.0,4,86.0,16.4,64,1875,81,North America,plymouth champ,plymouth
+35.1,4,81.0,16.1,60,1760,81,Asia,honda civic 1300,honda
+32.3,4,97.0,17.8,67,2065,81,Asia,subaru,subaru
+37.0,4,85.0,19.4,65,1975,81,Asia,datsun 210 mpg,datsun
+37.7,4,89.0,17.3,62,2050,81,Asia,toyota tercel,toyota
+34.1,4,91.0,16.0,68,1985,81,Asia,mazda glc 4,mazda
+34.7,4,105.0,14.9,63,2215,81,North America,plymouth horizon 4,plymouth
+34.4,4,98.0,16.2,65,2045,81,North America,ford escort 4w,ford
+29.9,4,98.0,20.7,65,2380,81,North America,ford escort 2h,ford
+33.0,4,105.0,14.2,74,2190,81,Europe,volkswagen jetta,volkswagen
+33.7,4,107.0,14.4,75,2210,81,Asia,honda prelude,honda
+32.4,4,108.0,16.8,75,2350,81,Asia,toyota corolla,toyota
+32.9,4,119.0,14.8,100,2615,81,Asia,datsun 200sx,datsun
+31.6,4,120.0,18.3,74,2635,81,Asia,mazda 626,mazda
+28.1,4,141.0,20.4,80,3230,81,Europe,peugeot 505s turbo diesel,peugeot
+30.7,6,145.0,19.6,76,3160,81,Europe,volvo diesel,volvo
+25.4,6,168.0,12.6,116,2900,81,Asia,toyota cressida,toyota
+24.2,6,146.0,13.8,120,2930,81,Asia,datsun 810 maxima,datsun
+22.4,6,231.0,15.8,110,3415,81,North America,buick century,buick
+26.6,8,350.0,19.0,105,3725,81,North America,oldsmobile cutlass ls,oldsmobile
+20.2,6,200.0,17.1,88,3060,81,North America,ford granada gl,ford
+17.6,6,225.0,16.6,85,3465,81,North America,chrysler lebaron salon,chrysler
+28.0,4,112.0,19.6,88,2605,82,North America,chevrolet cavalier,chevrolet
+27.0,4,112.0,18.6,88,2640,82,North America,chevrolet cavalier wagon,chevrolet
+34.0,4,112.0,18.0,88,2395,82,North America,chevrolet cavalier 2-door,chevrolet
+31.0,4,112.0,16.2,85,2575,82,North America,pontiac j2000 se hatchback,pontiac
+29.0,4,135.0,16.0,84,2525,82,North America,dodge aries se,dodge
+27.0,4,151.0,18.0,90,2735,82,North America,pontiac phoenix,pontiac
+24.0,4,140.0,16.4,92,2865,82,North America,ford fairmont futura,ford
+36.0,4,105.0,15.3,74,1980,82,Europe,volkswagen rabbit l,volkswagen
+37.0,4,91.0,18.2,68,2025,82,Asia,mazda glc custom l,mazda
+31.0,4,91.0,17.6,68,1970,82,Asia,mazda glc custom,mazda
+38.0,4,105.0,14.7,63,2125,82,North America,plymouth horizon miser,plymouth
+36.0,4,98.0,17.3,70,2125,82,North America,mercury lynx l,mercury
+36.0,4,120.0,14.5,88,2160,82,Asia,nissan stanza xe,nissan
+36.0,4,107.0,14.5,75,2205,82,Asia,honda accord,honda
+34.0,4,108.0,16.9,70,2245,82,Asia,toyota corolla,toyota
+38.0,4,91.0,15.0,67,1965,82,Asia,honda civic,honda
+32.0,4,91.0,15.7,67,1965,82,Asia,honda civic (auto),honda
+38.0,4,91.0,16.2,67,1995,82,Asia,datsun 310 gx,datsun
+25.0,6,181.0,16.4,110,2945,82,North America,buick century limited,buick
+38.0,6,262.0,17.0,85,3015,82,North America,oldsmobile cutlass ciera (diesel),oldsmobile
+26.0,4,156.0,14.5,92,2585,82,North America,chrysler lebaron medallion,chrysler
+22.0,6,232.0,14.7,112,2835,82,North America,ford granada l,ford
+32.0,4,144.0,13.9,96,2665,82,Asia,toyota celica gt,toyota
+36.0,4,135.0,13.0,84,2370,82,North America,dodge charger 2.2,dodge
+27.0,4,151.0,17.3,90,2950,82,North America,chevrolet camaro,chevrolet
+27.0,4,140.0,15.6,86,2790,82,North America,ford mustang gl,ford
+44.0,4,97.0,24.6,52,2130,82,Europe,vw pickup,volkswagen
+32.0,4,135.0,11.6,84,2295,82,North America,dodge rampage,dodge
+28.0,4,120.0,18.6,79,2625,82,North America,ford ranger,ford
+31.0,4,119.0,19.4,82,2720,82,North America,chevy s-10,chevrolet
